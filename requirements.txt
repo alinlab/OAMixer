@@ -1,0 +1,8 @@
+timm==0.5.4
+einops
+tensorboard
+pandas
+scipy
+opencv-python
+robustness
+scikit-image
