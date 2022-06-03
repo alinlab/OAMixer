@@ -6,10 +6,8 @@ Official PyTorch implementation of
 [Sangwoo Mo*](https://sites.google.com/view/sangwoomo),
 and [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html).
 
-Our code is heavily built upon [DeiT](https://github.com/facebookresearch/deit) and [timm](https://github.com/rwightman/pytorch-image-models) repositories.
-We use the newer version of timm than DeiT to borrow the updated mixer implementations.
-Our contribution is mostly in (a) `models` directory that defines the base masked model class and specific instantiations for ViT, MLP-Mixer, and ConvMixer,
-and (b) `transforms` directory that defines the paired transformations of image and corresponding patch labels (e.g., BigBiGAN, ReLabel).
+Our code is heavily built upon [DeiT](https://github.com/facebookresearch/deit) and [timm](https://github.com/rwightman/pytorch-image-models) repositories. We use the newer version of timm than DeiT to borrow the updated mixer implementations.
+Our main contributions are in (a) `models` directory that defines the base masked model class and specific instantiations for ViT, MLP-Mixer, and ConvMixer, and (b) `transforms` directory that defines the paired transformations of image and corresponding patch labels (e.g., BigBiGAN, ReLabel).
 
 
 ## Installation
