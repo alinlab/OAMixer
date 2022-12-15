@@ -1,7 +1,7 @@
-# ReMixer: Object-aware Mixing Layer for Vision Transformers
+# OAMixer: Object-aware Mixing Layer for Vision Transformers
 
 Official PyTorch implementation of
-[**"ReMixer: Object-aware Mixing Layer for Vision Transformers"**](https://drive.google.com/file/d/1-3d-P9Yh3QW-CyTOmi6VTsBuW72wXSd1/view?usp=sharing) by
+[**"OAMixer: Object-aware Mixing Layer for Vision Transformers"**](https://arxiv.org/abs/2212.06595) (CVPRW 2022) by
 [Hyunwoo Kang*](https://github.com/hyunOO),
 [Sangwoo Mo*](https://sites.google.com/view/sangwoomo),
 and [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html).
